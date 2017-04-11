@@ -60,6 +60,11 @@
   margin-top:-20px;
 }
 
+// Hide log in and log out alerts
+.alert-notice {
+  display:none;
+}
+
 //Typography styles
 h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
