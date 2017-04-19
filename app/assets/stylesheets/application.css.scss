@@ -60,6 +60,25 @@
   margin-top:-20px;
 }
 
+.home-sign-up-links {
+  margin-top:30px;
+}
+
+.flash-container {
+  position: absolute;
+  width: 100%;
+}
+
+// Hide log in and log out alerts
+.alert-notice, .alert-alert {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.87);
+  border-color: rgba(255, 255, 255, 0.74);
+  margin-top: -15px;
+}
+
+
+
 //Typography styles
 h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
